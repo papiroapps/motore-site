@@ -1,6 +1,9 @@
 {
     "appclips": {
-      "apps": [ "1521081899.app.meuposto.carpremium.Clip"]
+      "apps": [
+        "1521081899.app.meuposto.carpremium.Clip",
+        "1521081899.app.motore.Clip"
+      ]
     },
     "applinks": {
         "details": [
