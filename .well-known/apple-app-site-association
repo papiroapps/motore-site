@@ -1,0 +1,33 @@
+{
+    "appclips": {
+      "apps": [ "1521081899.app.meuposto.carpremium.Clip"]
+    },
+    "applinks": {
+        "details": [
+            {
+                "appID": "1521081899.app.meuposto.carpremium",
+                "components": [
+                  {"/": "/motors/*"}
+                ]
+            },
+            {
+                "appID": "1521081899.app.motore",
+                "components": [
+                  {"/": "/motors/*"}
+                ]
+            }
+        ]
+    },
+    "activitycontinuation": {
+      "apps": [
+        "1521081899.app.meuposto.carpremium",
+        "1521081899.app.motore"
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "1521081899.app.meuposto.carpremium",
+        "1521081899.app.motore"
+      ]
+    }
+}
